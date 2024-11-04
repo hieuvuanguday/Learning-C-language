@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636031204 source:d:\k17-f3-masterc\08.1-pracevencount\main.c
+	<stdio.h>
+	<stdlib.h>
+

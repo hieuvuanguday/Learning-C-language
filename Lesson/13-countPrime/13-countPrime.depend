@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636206058 source:d:\k17-f3-masterc\13-countprime\main.c
+	<stdio.h>
+	<stdlib.h>
+

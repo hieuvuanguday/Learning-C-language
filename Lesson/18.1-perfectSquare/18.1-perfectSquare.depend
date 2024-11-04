@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636462570 source:d:\k17-f3-masterc\18.1-perfectsquare\main.c
+	<stdio.h>
+	<stdlib.h>
+

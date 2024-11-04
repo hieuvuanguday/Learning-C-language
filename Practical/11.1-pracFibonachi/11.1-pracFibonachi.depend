@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636033760 source:d:\k17-f3-masterc\11.1-pracfibonachi\main.c
+	<stdio.h>
+	<stdlib.h>
+

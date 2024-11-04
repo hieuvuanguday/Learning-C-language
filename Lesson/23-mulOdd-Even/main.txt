@@ -1,0 +1,3 @@
+nhập vào một số nguyên dương
+tính và in ra kết quả của tích các số chẵn và tích các số lẻ
+n = 9 (1-8)

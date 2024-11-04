@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638934575 source:d:\k17-f3-masterc\37.3-dividearray\main.c
+	<stdio.h>
+	<stdlib.h>
+

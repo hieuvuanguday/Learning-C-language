@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639834568 source:d:\k17-f3-masterc\41-stringv3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+

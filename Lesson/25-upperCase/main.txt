@@ -1,0 +1,2 @@
+nhập vào 1 kí tự bất kì a-z A-Z
+xuất ra màn hình kí tự chữ cái viết hoa của kí tự đó

@@ -1,0 +1,3 @@
+27 - nhập vào 2 cạnh width & height
+tinh dien tich HCN (làm bằng 4 kiểu))
+(trong main dùng w - h, trong hàm dùng width với height)

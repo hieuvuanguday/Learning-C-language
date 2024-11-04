@@ -1,0 +1,6 @@
+nhập vào width và height
+in ra màn hình 7x4
+*******
+*     *
+*     *
+*******

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638360100 source:d:\k17-f3-masterc\3-sumnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

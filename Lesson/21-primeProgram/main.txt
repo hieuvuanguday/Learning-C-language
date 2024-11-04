@@ -1,0 +1,4 @@
+Viết 1 chương trình nhập vào 1 số bất kì
+Kiểm tra xem số đó có phải số nguyên tố hay không?
+sau đó lặp lại
+nếu người dùng nhập 0 thì kết thúc chương trình

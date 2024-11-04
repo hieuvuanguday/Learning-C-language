@@ -1,0 +1,4 @@
+Nhập vào ký tự trong khoảng từ 'a'-'z'
+In ra số số theo dạng sau:
+%c %d %04o
+a 97 0141

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636792940 source:d:\k17-f3-masterc\20.1-pracprintfformat\main.c
+	<stdio.h>
+	<stdlib.h>
+

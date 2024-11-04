@@ -1,0 +1,3 @@
+28 - làm lại checkPrime
+ nhưng làm bằng 4 kiểu hàm
+(trong main dùng n, trong hàm thì dùng number)

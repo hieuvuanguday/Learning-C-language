@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635943749 source:d:\k17-f3-masterc\08-oddcount\main.c
+	<stdio.h>
+	<stdlib.h>
+
